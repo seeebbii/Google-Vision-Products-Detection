@@ -1,0 +1,11 @@
+{
+  "name": "google-vision-products-detection",
+  "version": "1.0.0",
+  "description": "Search products using Google Vision api and Compare the prices over the internet using web scraping ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haseeb Zafar",
+  "license": "ISC"
+}
